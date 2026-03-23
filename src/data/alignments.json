@@ -1,0 +1,88 @@
+{
+  "_notes": "9-point alignment grid. Weights skew toward neutral — extremes are rarer. Each entry has a short descriptor used in UI and a flavour line for the character card.",
+  "alignments": [
+    {
+      "id":      "lawful-good",
+      "law":     "lawful",
+      "moral":   "good",
+      "label":   "Lawful Good",
+      "short":   "LG",
+      "flavour": "Bound by a code they actually believe in."
+    },
+    {
+      "id":      "neutral-good",
+      "law":     "neutral",
+      "moral":   "good",
+      "label":   "Neutral Good",
+      "short":   "NG",
+      "flavour": "Does what's right without needing a rulebook."
+    },
+    {
+      "id":      "chaotic-good",
+      "law":     "chaotic",
+      "moral":   "good",
+      "label":   "Chaotic Good",
+      "short":   "CG",
+      "flavour": "Follows their conscience, not the law."
+    },
+    {
+      "id":      "lawful-neutral",
+      "law":     "lawful",
+      "moral":   "neutral",
+      "label":   "Lawful Neutral",
+      "short":   "LN",
+      "flavour": "Order matters. Everything else is negotiable."
+    },
+    {
+      "id":      "true-neutral",
+      "law":     "neutral",
+      "moral":   "neutral",
+      "label":   "True Neutral",
+      "short":   "TN",
+      "flavour": "Balance. Not indifference — balance."
+    },
+    {
+      "id":      "chaotic-neutral",
+      "law":     "chaotic",
+      "moral":   "neutral",
+      "label":   "Chaotic Neutral",
+      "short":   "CN",
+      "flavour": "Free. Unpredictable by choice."
+    },
+    {
+      "id":      "lawful-evil",
+      "law":     "lawful",
+      "moral":   "evil",
+      "label":   "Lawful Evil",
+      "short":   "LE",
+      "flavour": "Uses structure to get what they want."
+    },
+    {
+      "id":      "neutral-evil",
+      "law":     "neutral",
+      "moral":   "evil",
+      "label":   "Neutral Evil",
+      "short":   "NE",
+      "flavour": "Self-interest. No sentimentality about it."
+    },
+    {
+      "id":      "chaotic-evil",
+      "law":     "chaotic",
+      "moral":   "evil",
+      "label":   "Chaotic Evil",
+      "short":   "CE",
+      "flavour": "Destructive. Doesn't need a reason."
+    }
+  ],
+  "weights": {
+    "lawful-good":    8,
+    "neutral-good":   10,
+    "chaotic-good":   8,
+    "lawful-neutral": 8,
+    "true-neutral":   14,
+    "chaotic-neutral": 9,
+    "lawful-evil":    5,
+    "neutral-evil":   7,
+    "chaotic-evil":   4
+  }
+}

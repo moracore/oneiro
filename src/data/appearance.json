@@ -1,0 +1,184 @@
+{
+  "_notes": "Three-layer appearance: build (race-aware), feature (face/body detail), distinctive (the memorable thing). All phrases are lowercase — the generator capitalises the first word at render time.",
+
+  "build": {
+    "_notes": "Physical frame and posture. Race-specific pools used when available; shared pool is fallback.",
+    "shared": [
+      "average in height with nothing immediately remarkable about their frame",
+      "tall and lean, carrying themselves with quiet economy of movement",
+      "broad-shouldered and solid, built like someone who works for a living",
+      "short and compact, with a low centre of gravity",
+      "rangy and long-limbed, all angles and reach"
+    ],
+    "race": {
+      "aasimar": [
+        "tall with an otherworldly stillness to how they hold themselves",
+        "graceful and luminous-skinned, as if lit from somewhere inside",
+        "lean with a posture that commands attention without seeming to try",
+        "slender and composed, radiating a calm that doesn't feel entirely earned",
+        "tall and unhurried — the kind of presence that quiets a room"
+      ],
+      "dragonborn": [
+        "powerfully built with a draconic frame that fills most doorways",
+        "broad-shouldered and imposing, scales catching the light as they move",
+        "tall and heavyset with thick neck scales and a deliberate gait",
+        "massive through the chest with forearms built for serious work",
+        "upright and commanding, with a natural authority in how they stand"
+      ],
+      "dwarf": [
+        "stocky and barrel-chested, every inch of them dense muscle",
+        "compact and solid, built close to the ground like bedrock",
+        "broad through the shoulders with a low centre of gravity and sure footing",
+        "short and powerfully built, with hands that could bend iron",
+        "squat and immovable-looking, as if they grew from the stone themselves"
+      ],
+      "elf": [
+        "slender and willowy with angular proportions and unhurried grace",
+        "tall and lean with a dancer's posture and economy of movement",
+        "lithe and sharp-edged, every gesture precise and considered",
+        "long-limbed and spare, carrying themselves as if the ground barely matters",
+        "slim and still, with a quietness to their presence that can unsettle"
+      ],
+      "gnome": [
+        "tiny and wiry with quick, darting movements and a restless energy",
+        "slight of frame but with surprising dexterity in their hands",
+        "small and compact, taking up almost no space and somehow always in the way",
+        "round-faced and small, with bright eyes that move faster than the rest of them",
+        "barely there physically, but their presence runs ahead of them"
+      ],
+      "goliath": [
+        "massive and towering, built on a different scale than most people",
+        "enormous — a full head taller than most humans and proportionally wider",
+        "powerfully muscled with stone-grey skin and the stillness of something geological",
+        "huge and deliberate, moving with a care that seems learned from breaking things",
+        "imposing enough that people move without realising they've done it"
+      ],
+      "halfling": [
+        "short and stout with a comfortable, round-faced warmth",
+        "small and nimble, taking up almost no space in a room",
+        "plump and unhurried in movement, with an easy, settled presence",
+        "compact and light on their feet in a way that sneaks up on people",
+        "small-framed and soft-featured, built for comfort and concealment equally"
+      ],
+      "human": [
+        "average in height with nothing immediately remarkable about their frame",
+        "tall and broad-shouldered, carrying themselves with earned confidence",
+        "lean and angular, with the kind of build that comes from not eating enough",
+        "short and stocky, solid without being heavy",
+        "medium-built and forgettable at a glance, which suits them fine"
+      ],
+      "orc": [
+        "muscular and broad, radiating physical presence without trying to",
+        "hulking and heavy-set with thick arms and a low, heavy brow",
+        "powerfully built and dense, the kind of frame that stops fights before they start",
+        "wide through the shoulders with a slightly forward lean, like they're always ready",
+        "massive in a way that seems architectural — as if they were constructed rather than born"
+      ],
+      "tiefling": [
+        "lean and angular with a coiled quality to their stillness",
+        "lithe with a tail that betrays their mood before their face does",
+        "slender and long-fingered, with a grace that makes people uncomfortable",
+        "slim and composed, with an economy of movement that reads as dangerous",
+        "spare and controlled, carrying themselves like they've learned not to take up space"
+      ]
+    }
+  },
+
+  "feature": [
+    "_notes: facial and body features — the second layer",
+    "sharp cheekbones that catch every shadow",
+    "deep-set eyes under a heavy brow",
+    "a wide, expressive jaw that leads their expressions",
+    "a high forehead and a composure that rarely breaks",
+    "a hooked nose and watchful eyes that don't miss much",
+    "a broad, flat nose and wide-set eyes",
+    "thin lips that rarely move to full expression",
+    "full lips and an easy, disarming mouth",
+    "a square jaw and a direct gaze that holds a beat too long",
+    "close-set eyes that give the impression of constant evaluation",
+    "heavy-lidded eyes that give away nothing",
+    "a long, angular face with prominent bones",
+    "a round face that makes them look younger than they are",
+    "a strong brow ridge that keeps their eyes in permanent shadow",
+    "weather-beaten features with deep lines that map a hard life",
+    "smooth, almost ageless skin that makes their age hard to guess",
+    "a hard mouth that softens rarely and only when they mean it",
+    "an open face that makes dishonesty difficult and obvious",
+    "dark eyes that reflect light in an unsettling way",
+    "a prominent scar bisecting one eyebrow",
+    "a jaw set slightly off-centre from an old break",
+    "eyes so pale they look almost colourless in direct light",
+    "heavy, expressive brows that communicate before they speak",
+    "a thin, sharp nose that gives their profile a blade-like quality",
+    "an unusually still face — emotions that arrive and depart without announcement"
+  ],
+
+  "distinctive": {
+    "_notes": "The one thing you remember. Shared pool used for all races; race-specific details added when relevant.",
+    "shared": [
+      "a jagged scar running from jaw to ear on the right side",
+      "mismatched eyes — one dark brown, one pale grey",
+      "a missing finger on the left hand, the wound old and clean",
+      "dense geometric tattoos covering both forearms",
+      "a burn scar on the neck, clearly from something serious and not talked about",
+      "hair gone completely white despite their apparent youth",
+      "a crooked nose that has been broken at least twice",
+      "a permanent squint in the left eye from an old injury",
+      "eyes that pick up light in a way that reads as unnatural",
+      "an elaborate brand on the right wrist — deliberate, not accidental",
+      "ceremonial scarring across the forehead in a pattern that means something specific",
+      "a single streak of pure silver running through otherwise dark hair",
+      "calloused hands that don't match the rest of their appearance",
+      "a small circular scar at the base of the throat",
+      "hands noticeably too large for the rest of their frame",
+      "a habit of keeping their hands very still when they feel they're being observed",
+      "always dressed as if they're about to leave somewhere",
+      "an accent that doesn't quite match where they claim to be from",
+      "teeth filed to points in the back — visible only when they actually smile",
+      "a knuckle scar pattern that tells a story without words",
+      "one ear notched, the cut precise and old",
+      "eyes that change shade depending on the light — or the mood",
+      "a faint smell of smoke that has nothing to do with proximity to fire"
+    ],
+    "race": {
+      "dragonborn": [
+        "scales that shift between two colors at the jawline — a bloodline mixing",
+        "a crest of small ridge-like horns along the crown that they keep polished",
+        "a tail with an unusual kink from an old break that never set right",
+        "scales with a metallic sheen that doesn't match their lineage's coloring"
+      ],
+      "tiefling": [
+        "small curved horns worn down to smooth nubs — filed deliberately or over time",
+        "a tail with an arrowhead tip that moves independently of their mood",
+        "solid-color eyes with no visible iris — the effect is unsettling up close",
+        "faint arcane markings along the jaw and collarbone that glow when they're angry"
+      ],
+      "aasimar": [
+        "a faint golden luminescence to the skin that is only visible in dim light",
+        "eyes that flash briefly with inner light when strong emotion surfaces",
+        "hair that drifts slightly in air that isn't moving",
+        "a warmth to the skin that has nothing to do with temperature"
+      ],
+      "goliath": [
+        "stone-pattern markings across the scalp and neck that form a tribal record",
+        "lithoderms that trace the map of every significant injury they've survived",
+        "a patch of almost translucent skin over the left shoulder where something burned through"
+      ],
+      "elf": [
+        "ears significantly longer than most elves — an old bloodline making itself known",
+        "eyes that shift color slightly depending on emotional state, uncontrollably",
+        "hair that moves as if in water when they're very still"
+      ],
+      "dwarf": [
+        "a braid in their beard that marks a specific oath — never explained unless asked directly",
+        "rune-work tattooed across the backs of the hands that they keep covered in company",
+        "a dent in one side of the skull, healed over but visible when the hair is short"
+      ],
+      "orc": [
+        "tusk tips capped in iron — a sign of something done or something owed",
+        "ritual scarring across the shoulders in a pattern specific to their clan",
+        "a brand over the heart that they don't cover and don't explain"
+      ]
+    }
+  }
+}

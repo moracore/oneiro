@@ -1,0 +1,61 @@
+{
+  "race": "gnome",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Gnomes love names — most have a personal name, a nickname, and a clan name. Personal names tend toward the whimsical. Clan names are often a single word.",
+  "male": [
+    "Alston", "Alvyn",
+    "Boddynock", "Brocc", "Burgell",
+    "Dimble",
+    "Eldon", "Erky",
+    "Fonkin", "Frug",
+    "Gerbo", "Gimble", "Glim",
+    "Jebeddo",
+    "Kellen",
+    "Namfoodle",
+    "Orryn",
+    "Roondar",
+    "Seebo", "Sindri",
+    "Warryn", "Wrenn",
+    "Zook"
+  ],
+  "female": [
+    "Bimpnottin", "Breena",
+    "Caramip", "Carlin",
+    "Donella", "Duvamil",
+    "Ella", "Ellyjobell", "Ellywick",
+    "Lilli", "Loopmottin", "Lorilla",
+    "Mardnab",
+    "Nissa", "Nyx",
+    "Oda", "Orla",
+    "Roywyn",
+    "Shamil",
+    "Tana",
+    "Waywocket",
+    "Zanna"
+  ],
+  "unisex": [],
+  "phonetics": {
+    "_notes": "2-3 syllables. Whimsical and bouncy. Lots of double letters (ll, dd, ck), diminutive endings (-dle, -ble, -ock, -wick). Female names often end in -na, -la, -wyn.",
+    "count": { "values": [2, 3], "weights": [0.5, 0.5] },
+    "start": {
+      "male":   ["Al", "Bo", "Bro", "Bur", "Di", "El", "Er", "Fo", "Fru", "Ger", "Gi", "Gli", "Je", "Kel", "Nam", "Or", "Roon", "See", "Sin", "War", "Wr", "Zoo"],
+      "female": ["Bi", "Bre", "Car", "Don", "Du", "El", "Ell", "Lil", "Loop", "Lor", "Mar", "Nis", "Nyx", "Od", "Or", "Roy", "Sha", "Ta", "Way", "Zan"]
+    },
+    "middle": ["dy", "bo", "ny", "foo", "mo", "el", "ly", "ro", "wa", "bel", "not", "jo", "wick"],
+    "end": {
+      "male":   ["ock", "ell", "ble", "ick", "im", "kin", "dle", "yn", "nk", "bo", "dar", "bock", "ryn"],
+      "female": ["na", "in", "la", "ll", "wick", "tin", "a", "wyn", "il", "nottin", "mottin", "bell", "ella"]
+    }
+  },
+  "clan": [
+    "Beren",
+    "Daergel",
+    "Folkor",
+    "Garrick",
+    "Murnig",
+    "Nackle", "Ningel",
+    "Raulnor",
+    "Scheppen",
+    "Timbers", "Turen"
+  ]
+}

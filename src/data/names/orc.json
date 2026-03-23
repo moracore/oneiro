@@ -1,0 +1,62 @@
+{
+  "race": "orc",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Orc names are short, hard, and often end in consonant clusters. They tend to favor guttural sounds. The 2024 PHB treats orcs as a fully playable species with their own cultural identity.",
+  "male": [
+    "Dench",
+    "Feng",
+    "Gell", "Gorg", "Grolar",
+    "Henk", "Holg", "Horgar",
+    "Imsh",
+    "Jark",
+    "Keth", "Krusk",
+    "Mhurren",
+    "Nag",
+    "Rog", "Ront",
+    "Shump",
+    "Thokk", "Thorn",
+    "Vrog",
+    "Wund"
+  ],
+  "female": [
+    "Baggi", "Borbora",
+    "Emen", "Engong",
+    "Ghakis",
+    "Kansif",
+    "Myev",
+    "Neega",
+    "Ovak", "Ownka",
+    "Shautha",
+    "Vola", "Volen",
+    "Yevelda"
+  ],
+  "unisex": [
+    "Arruk",
+    "Brug",
+    "Durnn",
+    "Grish",
+    "Harg",
+    "Murk",
+    "Norg",
+    "Ruk",
+    "Skrag",
+    "Thrag",
+    "Ugruk",
+    "Varg"
+  ],
+  "phonetics": {
+    "_notes": "1-2 syllables. Guttural consonants, short vowels (a/u/o dominate). Male ends hard; female ends softer or with vowel-a.",
+    "count": { "values": [1, 2], "weights": [0.45, 0.55] },
+    "start": {
+      "male":   ["Gro", "Kru", "Dre", "Bra", "Tho", "Sha", "Ghe", "Gu", "Ke", "Da", "Bo", "Ro", "Mu", "Na", "Ho", "Wa", "Fe", "Ti", "Vo", "Mhu", "Im", "En", "Ag", "Wun", "Ra", "Ha"],
+      "female": ["Ba", "Bo", "Em", "En", "Gha", "Ka", "My", "Ne", "Ov", "Own", "Sha", "Vo", "Ye", "Ro", "Na", "Ke", "Va", "Bor"],
+      "unisex": ["Ar", "Bru", "Du", "Gri", "Ha", "Mu", "No", "Ru", "Sk", "Thr", "Ug", "Va", "Mo", "Da"]
+    },
+    "middle": ["ag", "or", "uk", "em", "on", "ob", "ub"],
+    "end": {
+      "male":   ["nk", "mp", "rg", "sk", "ng", "sh", "th", "t", "k", "g", "m", "rr", "nch", "p"],
+      "female": ["ggi", "bora", "ga", "ka", "tha", "la", "va", "da", "sa", "ra", "len", "ak"],
+      "unisex": ["k", "g", "sh", "ng", "ruk", "rag", "rnn", "m"]
+    }
+  }
+}

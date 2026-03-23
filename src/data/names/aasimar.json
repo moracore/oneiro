@@ -1,0 +1,80 @@
+{
+  "race": "aasimar",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Aasimar use names from the culture they were raised in. These lists draw from names given to aasimar characters across official D&D lore — celestial-inflected but culturally rooted.",
+  "male": [
+    "Aeson", "Amos", "Ardath", "Ariel", "Arvid", "Athar", "Aureon",
+    "Caelum", "Callum", "Casiel", "Celian", "Cephas", "Chaiel",
+    "Davan", "Dovev", "Dawniel",
+    "Eliam", "Elian", "Elior", "Eloam",
+    "Gavrel", "Gideon",
+    "Hemiel", "Hesper",
+    "Ilam", "Ilion",
+    "Javan", "Joram",
+    "Lael", "Lior", "Lucian",
+    "Malak", "Micah", "Moriel",
+    "Nathaniel", "Nuriel",
+    "Oriel", "Oziel",
+    "Phaniel",
+    "Raphael", "Raziel", "Remiel",
+    "Sariel", "Seraph", "Sorin",
+    "Taliel", "Tobias",
+    "Uriel", "Uziel",
+    "Vaeron", "Vael",
+    "Zael", "Zion"
+  ],
+  "female": [
+    "Adalind", "Adara", "Aelindra",
+    "Brielle", "Brigid",
+    "Calista", "Callista", "Celeste", "Celestia", "Celestine",
+    "Dara", "Dawn",
+    "Elara", "Elise", "Ellindra",
+    "Faela", "Farien",
+    "Galatea",
+    "Helia", "Hesper",
+    "Ilara", "Ilmara",
+    "Kalinda",
+    "Lael", "Laelia", "Lumiel", "Lumi", "Lyria",
+    "Meridian", "Moriah",
+    "Nadia", "Nairi", "Nura",
+    "Oriah", "Oriel",
+    "Phaedra", "Phiel",
+    "Radael", "Raiel",
+    "Solene", "Soleil", "Suniel",
+    "Talitha", "Thaliel",
+    "Umara",
+    "Vaela",
+    "Zahiel", "Zara", "Zia", "Zorah"
+  ],
+  "phonetics": {
+    "_notes": "2-3 syllables. Celestial and melodic — soft consonants (l, r, n, m, ph), flowing vowels (ae, ia, iel, or, el). Male ends in -el/-iel/-an/-or/-ar/-us; female ends in -a/-ra/-ia/-iel/-iah/-ina.",
+    "count": { "values": [2, 3], "weights": [0.3, 0.7] },
+    "start": {
+      "male":   ["Ae", "Ad", "Ar", "An", "Av", "Br", "Ca", "Ce", "Da", "El", "Ga", "He", "Il", "Ja", "Ka", "La", "Lu", "Ma", "Mi", "Mo", "Na", "Nu", "Or", "Ra", "Re", "Sa", "Se", "So", "Ta", "To", "Um", "Ur", "Va", "Za"],
+      "female": ["Ae", "Ad", "Ar", "An", "Br", "Ca", "Ce", "Da", "El", "Fa", "Ga", "He", "Il", "Ka", "La", "Lu", "Ma", "Mi", "Mo", "Na", "Nu", "Or", "Ph", "Ra", "Sa", "Se", "So", "Ta", "Um", "Va", "Za", "Zi"],
+      "unisex": ["Ae", "Ar", "El", "La", "Na", "Or", "Sa", "Ta", "Va", "Za"]
+    },
+    "middle": ["a", "e", "i", "o", "u", "ae", "ia", "el", "ri", "li", "na", "ra", "an", "ar", "or", "iel", "ph"],
+    "end": {
+      "male":   ["el", "iel", "ael", "an", "or", "in", "as", "il", "on", "us", "ros", "tos", "ar", "iel"],
+      "female": ["a", "ra", "ia", "iel", "iah", "el", "ara", "ela", "ina", "ora", "lia", "riel"],
+      "unisex": ["el", "iel", "an", "or", "ia", "ar"]
+    }
+  },
+  "unisex": [
+    "Ardath", "Athar",
+    "Briathos",
+    "Celeste",
+    "Dawnbringer",
+    "Ember",
+    "Hesper",
+    "Lael", "Lior", "Lumi",
+    "Meridian",
+    "Nura",
+    "Oriel",
+    "Seraph",
+    "Tara",
+    "Vael",
+    "Zael", "Zia"
+  ]
+}

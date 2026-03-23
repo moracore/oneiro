@@ -1,0 +1,62 @@
+{
+  "race": "dragonborn",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Personal names are given at birth and used among dragonborn of all genders. Clan names follow the personal name and are used in formal contexts.",
+  "male": [
+    "Arjhan", "Balasar", "Bharash",
+    "Donaar",
+    "Ghesh",
+    "Heskan",
+    "Kriv",
+    "Medrash", "Mehen",
+    "Nadarr",
+    "Pandjed", "Patrin",
+    "Rhogar",
+    "Shamash", "Shedinn",
+    "Tarhun", "Torinn"
+  ],
+  "female": [
+    "Akra",
+    "Biri",
+    "Daar",
+    "Farideh",
+    "Harann", "Havilar",
+    "Jheri",
+    "Kava", "Korinn",
+    "Mishann",
+    "Nala",
+    "Perra",
+    "Raiann",
+    "Sora", "Surina",
+    "Thava",
+    "Uadjit"
+  ],
+  "unisex": [],
+  "phonetics": {
+    "_notes": "1-3 syllables. Draconic consonant clusters (Bh, Kh, Rh, Sh, Gh). Harsh vowel combos (aa, ai, ei). Male ends harder (-an/-ash/-arr/-esh/-rin); female ends softer (-ra/-ava/-iann/-ann).",
+    "count": { "values": [1, 2, 3], "weights": [0.15, 0.55, 0.30] },
+    "start": {
+      "male":   ["Ar", "Ba", "Bha", "Do", "Ghe", "He", "Kri", "Me", "Na", "Pan", "Pa", "Rho", "Sha", "She", "Tar", "To", "Kha", "Dra", "Nar", "Ver"],
+      "female": ["Ak", "Bi", "Da", "Fa", "Ha", "Jhe", "Ka", "Ko", "Mi", "Na", "Pe", "Ra", "So", "Su", "Tha", "Ua", "Kha", "Bri", "Naa"]
+    },
+    "middle": ["la", "da", "ri", "vi", "ka", "ga", "re", "an", "in", "ar", "or", "es", "ash", "aa"],
+    "end": {
+      "male":   ["an", "ar", "ash", "arr", "esh", "iv", "rin", "gar", "inn", "hun", "djed", "rash", "dash"],
+      "female": ["ra", "ri", "aar", "ann", "ava", "inn", "la", "iann", "rina", "nna", "tava", "kava"]
+    }
+  },
+  "clan": [
+    "Clethtinthiallor",
+    "Daardendrian", "Delmirev", "Drachedandion",
+    "Fenkenkabradon",
+    "Kepeshkmolik", "Kerrhylon", "Kimbatuul",
+    "Linxakasendalor",
+    "Myastan",
+    "Nemmonis", "Norixius",
+    "Ophinshtalajiir",
+    "Prexijandilin",
+    "Shestendeliath",
+    "Turnuroth",
+    "Verthisathurgiesh", "Vorelixian"
+  ]
+}

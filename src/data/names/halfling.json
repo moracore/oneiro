@@ -1,0 +1,55 @@
+{
+  "race": "halfling",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Halfling names tend toward the comfortable and domestic. Family names are often references to natural features or professions, sometimes whimsical compound words.",
+  "male": [
+    "Alton", "Ander",
+    "Cade", "Corrin",
+    "Eldon", "Errich",
+    "Finnan",
+    "Garret",
+    "Lindal", "Lyle",
+    "Merric", "Milo",
+    "Osborn",
+    "Perrin",
+    "Reed", "Roscoe",
+    "Wellby"
+  ],
+  "female": [
+    "Andry",
+    "Bree",
+    "Callie", "Cora",
+    "Euphemia",
+    "Jillian",
+    "Kithri",
+    "Lavinia", "Lidda",
+    "Merla",
+    "Nedda",
+    "Paela", "Portia",
+    "Seraphina", "Shaena",
+    "Trym",
+    "Vani", "Verna"
+  ],
+  "unisex": [],
+  "phonetics": {
+    "_notes": "2-3 syllables. Comfortable, domestic, soft consonants. Male ends in -ton/-er/-in/-oe/-al/-by; female ends in -y/-ee/-ie/-a/-ia/-ina/-na.",
+    "count": { "values": [2, 3], "weights": [0.65, 0.35] },
+    "start": {
+      "male":   ["Al", "An", "Ca", "Cor", "El", "Er", "Fin", "Gar", "Lin", "Ly", "Mer", "Mi", "Os", "Per", "Reed", "Ros", "Wel", "Wi", "To", "Fo"],
+      "female": ["An", "Bree", "Cal", "Cor", "Eu", "Jil", "Kith", "La", "Lid", "Mer", "Ned", "Pae", "Por", "Se", "Sha", "Try", "Va", "Ver", "Wi"]
+    },
+    "middle": ["rin", "tin", "ra", "li", "na", "ro", "ri", "phi", "la", "ne"],
+    "end": {
+      "male":   ["ton", "er", "rin", "ret", "dal", "rich", "nan", "by", "le", "lo", "co", "corn", "wick", "ell"],
+      "female": ["dry", "ee", "lie", "ra", "phia", "lian", "ri", "nia", "da", "la", "ia", "tia", "na", "phina", "ni", "rna", "wyn"]
+    }
+  },
+  "family": [
+    "Brushgather",
+    "Goodbarrel", "Greenbottle",
+    "Highhill", "Hilltopple",
+    "Leagallow",
+    "Tealeaf", "Thorngage", "Tosscobble",
+    "Underbough"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "race": "goliath",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Goliath birth names are 3 syllables and assigned by the clan's chief elder. They are not gendered. Nicknames (1-2 syllables) are earned through deeds. Clan names identify which family they belong to.",
+  "male": [],
+  "female": [],
+  "unisex": [
+    "Aukan",
+    "Eglath",
+    "Gae-Al", "Gauthak",
+    "Ilikan",
+    "Keothi", "Kuori",
+    "Lo-Kag",
+    "Manneo", "Maveith",
+    "Nalla",
+    "Orilo",
+    "Paavu", "Pethani",
+    "Thalai", "Thotham",
+    "Uthal",
+    "Vaunea", "Vimak",
+    "Atla", "Dekla", "Gorra", "Holg", "Ilara",
+    "Kafke", "Kono",
+    "Lalai",
+    "Mekla",
+    "Nokala",
+    "Ovak",
+    "Paaga", "Puura",
+    "Rekon",
+    "Stuuto",
+    "Thalara", "Tuuma",
+    "Unara",
+    "Vakka", "Varra"
+  ],
+  "phonetics": {
+    "_notes": "2-3 syllables, all unisex. Broad open vowels (au, aa, oo, ai, ea). Medial consonants l, n, th, k, m, v, p. Often ends open (vowel) or in -lath/-kan/-thak/-ith.",
+    "count": { "values": [2, 3], "weights": [0.4, 0.6] },
+    "start": ["Au", "Eg", "Gae", "Gau", "Il", "Ke", "Ku", "Lo", "Man", "Ma", "Nal", "Or", "Paa", "Pe", "Tha", "Tho", "U", "Vau", "Vi", "At", "De", "Ka", "Na", "Pa", "Re", "Tu", "Vo"],
+    "middle": ["li", "o", "ve", "ne", "kan", "than", "lo", "ka", "ni", "ma", "la", "vu", "the", "ta"],
+    "end": ["kan", "lath", "al", "thak", "ikan", "thi", "ori", "kag", "neo", "ith", "la", "ilo", "vu", "ni", "lai", "tham", "thal", "nea", "mak", "pai", "hai"]
+  },
+  "clan": [
+    "Anakalathai",
+    "Elanithino",
+    "Gathakanathi",
+    "Kalagiano", "Katho-Olavi", "Kolae-Gileana",
+    "Ogolakanu",
+    "Thuliaga", "Thunukalathi",
+    "Vaimei-Laga"
+  ]
+}

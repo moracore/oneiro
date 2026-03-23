@@ -1,0 +1,83 @@
+{
+  "race": "elf",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Elves use a child name until adulthood, then take an adult name. Child names are typically short and unisex. Family names are poetic phrases in Elvish — these are the translated versions.",
+  "male": [
+    "Adran", "Aelar", "Aramil", "Arannis", "Aust",
+    "Beiro", "Berrian",
+    "Carric",
+    "Enialis", "Erdan", "Erevan",
+    "Galinndan",
+    "Hadarai", "Heian", "Himo",
+    "Immeral", "Ivellios",
+    "Laucian",
+    "Mindartis",
+    "Paelias", "Peren",
+    "Quarion",
+    "Riardon", "Rolen",
+    "Soveliss",
+    "Thamior", "Tharivol", "Theren",
+    "Varis"
+  ],
+  "female": [
+    "Adrie", "Althaea", "Anastrianna", "Andraste", "Antinua",
+    "Bethrynna", "Birel",
+    "Caelynn",
+    "Drusilia",
+    "Enna",
+    "Felosial",
+    "Ielenia",
+    "Jelenneth",
+    "Keyleth",
+    "Leshanna", "Lia",
+    "Meriele", "Mialee",
+    "Naivara",
+    "Quelenna", "Quillathe",
+    "Sariel", "Shanairra", "Shava", "Silaqui",
+    "Theirastra", "Thia",
+    "Vadania", "Valanthe",
+    "Xanaphia"
+  ],
+  "unisex": [
+    "Ara",
+    "Bryn",
+    "Del",
+    "Eryn",
+    "Faen",
+    "Innil",
+    "Lael",
+    "Mella",
+    "Naill", "Naeris",
+    "Phann",
+    "Rael", "Rinn",
+    "Sai", "Syllin",
+    "Thia",
+    "Vall"
+  ],
+  "phonetics": {
+    "_notes": "2-4 syllables. Flowing, liquid consonants (l, r, n, v, th). Rich diphthongs (ae, ia, ie). Male ends in -an/-ar/-il/-is/-on/-el; female ends in -ia/-ae/-nna/-iel/-ua/-ynn.",
+    "count": { "values": [2, 3, 4], "weights": [0.2, 0.55, 0.25] },
+    "start": {
+      "male":   ["Ad", "Ae", "Ar", "Au", "Be", "Bi", "Ca", "En", "Er", "Ga", "Ha", "He", "Hi", "Im", "Iv", "La", "Mi", "Pa", "Pe", "Qu", "Ri", "Ro", "So", "Tha", "Va"],
+      "female": ["Ad", "Al", "An", "Be", "Bi", "Ca", "Dr", "En", "Fe", "Ie", "Je", "Ke", "Le", "Li", "Me", "Mi", "Na", "Qu", "Sa", "Sh", "Si", "Th", "Va", "Xa"],
+      "unisex": ["Ae", "Ar", "El", "En", "Fa", "In", "La", "Na", "Ph", "Ra", "Sy", "Th", "Va"]
+    },
+    "middle": ["rin", "lin", "dan", "nis", "li", "na", "el", "ia", "an", "ar", "en", "al", "in", "ra", "re", "dra", "nna", "vel", "lis", "nn", "ss"],
+    "end": {
+      "male":   ["an", "ar", "il", "is", "on", "en", "iss", "iel", "or", "ol", "ris", "vel", "rion"],
+      "female": ["ia", "ae", "nna", "iel", "el", "ua", "ra", "ynn", "ath", "athe", "stra", "phia", "lia", "riel"],
+      "unisex": ["el", "an", "il", "iel", "ia", "on", "ar"]
+    }
+  },
+  "family": [
+    "Amakiir", "Amastacia",
+    "Galanodel",
+    "Holimion",
+    "Ilphelkiir",
+    "Liadon",
+    "Meliamne",
+    "Nailo",
+    "Siannodel",
+    "Xiloscient"
+  ]
+}

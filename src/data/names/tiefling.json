@@ -1,0 +1,64 @@
+{
+  "race": "tiefling",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Tieflings either use infernal names passed down through heritage, adopt the naming conventions of the culture they were raised in, or take Virtue names — abstract concepts in Common that serve as a statement of identity. The infernal and virtue lists are both included.",
+  "male": [
+    "Akmenos", "Amnon",
+    "Barakas",
+    "Damakos",
+    "Ekemon",
+    "Iados",
+    "Kairon",
+    "Leucis",
+    "Melech", "Mordai", "Morthos",
+    "Pelaios",
+    "Skamos",
+    "Therai"
+  ],
+  "female": [
+    "Akta", "Anasta",
+    "Bryseis",
+    "Criella",
+    "Damaia",
+    "Ea",
+    "Kallista",
+    "Lerissa",
+    "Makaria",
+    "Nemeia",
+    "Orianna",
+    "Phelaia",
+    "Rieta"
+  ],
+  "phonetics": {
+    "_notes": "2-3 syllables. Infernal names are Greek/Semitic-influenced — dark vowels, hard stops. Male ends in -os/-on/-is/-mos/-ros; female ends in -ta/-ia/-eis/-ella/-anna. Unisex 'virtue names' are English abstract nouns — handled separately, not syllable-generated.",
+    "count": { "values": [2, 3], "weights": [0.55, 0.45] },
+    "start": {
+      "male":   ["Ak", "Am", "Ba", "Da", "Ek", "Ia", "Ka", "Leu", "Me", "Mor", "Pe", "Ska", "The", "Kri", "Zer", "Tor", "Bal"],
+      "female": ["Ak", "An", "Bry", "Cri", "Da", "Ea", "Kal", "Le", "Ma", "Ne", "Or", "Phe", "Ri", "Zel", "Bry", "Chal"]
+    },
+    "middle": ["me", "ra", "ka", "os", "ei", "ai", "an", "on", "la", "ia", "nas", "mo", "da"],
+    "end": {
+      "male":   ["os", "on", "is", "nos", "ros", "kos", "mos", "mon", "ios", "aios", "dios"],
+      "female": ["ta", "ia", "eis", "ella", "aia", "a", "ista", "rissa", "aria", "eia", "anna", "eta"]
+    }
+  },
+  "unisex": [
+    "Art",
+    "Carrion", "Chant", "Craft", "Creed",
+    "Despair",
+    "Excellence",
+    "Fear",
+    "Glory",
+    "Hope",
+    "Ideal",
+    "Music",
+    "Nowhere",
+    "Open",
+    "Poetry",
+    "Quest",
+    "Random", "Reverence",
+    "Sorrow",
+    "Temerity", "Torment",
+    "Weary"
+  ]
+}

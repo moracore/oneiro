@@ -1,0 +1,64 @@
+{
+  "race": "dwarf",
+  "source": "D&D 2024 Player's Handbook",
+  "notes": "Dwarf names are often long and heavy with consonants. Clan names are shared by the entire clan and append to the personal name.",
+  "male": [
+    "Adrik", "Alberich",
+    "Baern", "Barendd", "Brottor", "Bruenor",
+    "Dain", "Darrak", "Delg",
+    "Eberk", "Einkil",
+    "Fargrim", "Flint",
+    "Gardain",
+    "Harbek",
+    "Kildrak",
+    "Morgran",
+    "Orsik", "Oskar",
+    "Rangrim", "Rurik",
+    "Taklinn", "Thoradin", "Thorin", "Tordek", "Traubon", "Travok",
+    "Ulfgar",
+    "Veit", "Vondal"
+  ],
+  "female": [
+    "Amber", "Artin", "Audhild",
+    "Bardryn",
+    "Dagnal", "Diesa",
+    "Eldeth",
+    "Falkrunn", "Finellen",
+    "Gunnloda", "Gurdis",
+    "Helja", "Hlin",
+    "Ilde",
+    "Kathra", "Kristryd",
+    "Liftrasa",
+    "Mardred",
+    "Riswynn",
+    "Sannl",
+    "Torbera", "Torgga",
+    "Vistra"
+  ],
+  "unisex": [],
+  "clan": [
+    "Balderk",
+    "Dankil",
+    "Gorunn",
+    "Hamarakkad",
+    "Ironfist",
+    "Loderr", "Lutgehr",
+    "Rumnaheim",
+    "Strakeln",
+    "Torunn",
+    "Ungart"
+  ],
+  "phonetics": {
+    "_notes": "2-3 syllables. Heavy consonants, Norse-Germanic feel. Male ends in hard consonants (-rik, -in, -ek, -ak, -gar); female ends in softer sounds (-ra, -sa, -eth, -ryn, -ja, -hild).",
+    "count": { "values": [2, 3], "weights": [0.6, 0.4] },
+    "start": {
+      "male":   ["Ad", "Al", "Baer", "Bar", "Bro", "Bru", "Dar", "Del", "Eber", "Ein", "Far", "Fli", "Gar", "Har", "Kil", "Mor", "Ors", "Os", "Ran", "Ru", "Tak", "Thor", "Tor", "Trau", "Tra", "Ulf", "Vei", "Von"],
+      "female": ["Am", "Ar", "Aud", "Bar", "Dag", "Die", "El", "Fal", "Fi", "Gun", "Gur", "Hel", "Hli", "Kath", "Kris", "Il", "Lif", "Mar", "Ris", "San", "Tor", "Vis"]
+    },
+    "middle": ["ber", "gar", "kar", "dar", "nar", "lin", "rin", "din", "dak", "bek", "rik", "nor", "nel"],
+    "end": {
+      "male":   ["rik", "rich", "in", "ek", "or", "ok", "al", "gar", "bek", "orn", "inn", "kil", "dak", "rim"],
+      "female": ["ra", "sa", "eth", "da", "dis", "ryn", "ja", "wynn", "hild", "runn", "len", "wyn", "tra", "dryn", "ilda"]
+    }
+  }
+}
